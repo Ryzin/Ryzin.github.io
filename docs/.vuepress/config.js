@@ -2,7 +2,7 @@ module.exports = {
   port: "80",
   title: "xcw帮助",
   description: "xcw帮助",
-  base: "./", // dev: "/", product: "./"
+  base: "/", // dev: "/", product: "./"
   plugins: {
     "@vuepress/search": {
       searchMaxSuggestions: 10,
