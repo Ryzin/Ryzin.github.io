@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "36fd49e924eec2a7ffe84b27d691a17f"
+    "revision": "24c134061bb472b57aa2b5526841fe81"
   },
   {
     "url": "about/index.html",
-    "revision": "10f8555604c52a1b3ece250204121c35"
+    "revision": "cc24a64774acb88c22326f23488bb43d"
   },
   {
     "url": "assets/css/0.styles.ff70b751.css",
@@ -134,68 +134,68 @@ self.__precacheManifest = [
     "revision": "11d0346a60e024157db06326bb865e9a"
   },
   {
-    "url": "assets/js/app.08971afd.js",
-    "revision": "075fe5c8a908ea6ed56fe7a70ab3dd31"
+    "url": "assets/js/app.7aea2c81.js",
+    "revision": "0abe243dbad45b899076fb1ec60d11a7"
   },
   {
     "url": "build/faq.html",
-    "revision": "2511e22d0884d09967c42431f5bccea8"
+    "revision": "0027a06106f00c7f81057b70cea1a06c"
   },
   {
     "url": "build/hoshino.html",
-    "revision": "e446dbc3350e62a375cfe4394b3dfe15"
+    "revision": "ec73bc9f0b41bc70be3fc0426e7a4f50"
   },
   {
     "url": "build/index.html",
-    "revision": "9b579d11afd3223cf4983623b4d36602"
+    "revision": "43e9d097d2f2924ede5248e9608a48d6"
   },
   {
     "url": "build/main.html",
-    "revision": "5c04a4ce450fbbd5e8d0f2e48b6d0e40"
+    "revision": "c7d7593f571e92e43af43b7466baca0c"
   },
   {
     "url": "build/slider.html",
-    "revision": "183e5916d7ea009f6fe9c6f72ab48ad3"
+    "revision": "8ab93471b70bf754b9b696e6d1771f58"
   },
   {
     "url": "build/then.html",
-    "revision": "b041545e6483413926e97f9ead386aec"
+    "revision": "540e25fa9a77ada78b648f5d7a23668c"
   },
   {
     "url": "cqcode/index.html",
-    "revision": "118cb1616ae13d12de464183cbb0ab32"
+    "revision": "4389376248e8c784d9ce865d9bc65e91"
   },
   {
     "url": "help/a.html",
-    "revision": "c67dfb9df0444c3d5ecd84a21bd21b2f"
+    "revision": "d24e8a7c97a0f208f08b62a9784780e1"
   },
   {
     "url": "help/b.html",
-    "revision": "845e97e5f3c1b0427ed8fee134f83252"
+    "revision": "32fa114ffdbbdd1b9c785dcf1377da4e"
   },
   {
     "url": "help/c.html",
-    "revision": "b5db078b92a81c16b8d188efc5b7ca45"
+    "revision": "98460a728e774cac31af8c282449f07d"
   },
   {
     "url": "help/d.html",
-    "revision": "9c5d2c8412682da705de4ef7f31e2275"
+    "revision": "7d1f2108a8a9cf6aefca871b2f4a21ea"
   },
   {
     "url": "help/e.html",
-    "revision": "eff31516a943180376dff23e3c8273ca"
+    "revision": "e73381d6f252438573049b1713075bd7"
   },
   {
     "url": "help/f.html",
-    "revision": "84bae2804ec19b2801c633564e1403b9"
+    "revision": "9d893c963bd3e0d77dcf8f94a4905c3d"
   },
   {
     "url": "help/index.html",
-    "revision": "02d09311b4011f00335960a84de44afb"
+    "revision": "7154dab94eba6537b05b839fbf78a04c"
   },
   {
     "url": "index.html",
-    "revision": "024e7f52c111710f06c0b333e9a5fc87"
+    "revision": "87ff1b393fe972a28d2e709c6f0467a7"
   },
   {
     "url": "logo.png",
