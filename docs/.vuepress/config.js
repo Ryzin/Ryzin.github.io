@@ -2,7 +2,7 @@ module.exports = {
   port: "80",
   title: "xcw帮助",
   description: "xcw帮助",
-  base: "./hoshino_xcw_docs/", // dev: "/", product: "./hoshino_xcw_docs/"
+  base: "./", // dev: "/", product: "./"
   plugins: {
     "@vuepress/search": {
       searchMaxSuggestions: 10,
@@ -56,7 +56,7 @@ module.exports = {
       { text: "搭建", link: "/build/" },
     ],
     sidebar: {
-      "/hoshino_xcw_docs/about/": [""],
+      "/about/": [""],
       "/help/": ["", "a", "b", "c", "d", "e", "f"],
       "/cqcode/": [""],
       "/build/": ["", "main", "hoshino", "faq", "slider", "then"],
