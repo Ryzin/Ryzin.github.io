@@ -1,24 +1,30 @@
 # 帮助
 
-本bot有
+本 bot 有
 
-* [会战](a.md)
+- [会战](a.md)
 
-* [通用](b.md)
+- [通用](b.md)
 
-* [娱乐](c.md)
+- [娱乐](c.md)
 
-* [订阅](d.md)
+- [订阅](d.md)
 
-* [查询](e.md)
+- [查询](e.md)
 
-五类功能（点击可快速查看）
+- [会战黑名单](f.md)
+
+- [打轴器](g.md)
+
+- [摸轴器](h.md)
+
+功能（点击可快速查看）
 
 建议善用**右上角搜索**功能，搜索功能名即可跳转
 
 但由于实际搭建或维护能力不同
 
-bot开启或配置的功能也不同
+bot 开启或配置的功能也不同
 
 ※具体功能请在**群聊**中发送
 
@@ -50,11 +56,9 @@ lssv
 
 来获取最准确的帮助
 
-
-
 ※此外请注意你使用的机器人的版本
 
-本帮助基于的bot版本为
+本帮助基于的 bot 版本为
 
 <a href="https://github.com/sanshanya/hoshino_xcw/releases">
     <img src="https://img.shields.io/github/v/release/sanshanya/hoshino_xcw?color=blueviolet&include_prereleases" alt="release"></a>
@@ -65,6 +69,6 @@ lssv
 version
 ```
 
-可以快速查看bot版本
+可以快速查看 bot 版本
 
 感谢您的阅读~
