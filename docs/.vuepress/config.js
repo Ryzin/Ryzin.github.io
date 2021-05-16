@@ -2,7 +2,7 @@ module.exports = {
   port: "80",
   title: "xcw帮助",
   description: "xcw帮助",
-  base: "./hoshino_xcw_docs/", // dev: "/", product: "/hoshino_xcw_docs/"
+  base: "./hoshino_xcw_docs/", // dev: "/", product: "./hoshino_xcw_docs/"
   plugins: {
     "@vuepress/search": {
       searchMaxSuggestions: 10,
