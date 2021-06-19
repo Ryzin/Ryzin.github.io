@@ -57,7 +57,7 @@ module.exports = {
     ],
     sidebar: {
       "/about/": [""],
-      "/help/": ["", "a", "b", "c", "d", "e", "f", "g", "h", "z"],
+      "/help/": ["", "a", "b", "c", "d", "i", "e", "f", "g", "h", "z"],
       "/cqcode/": [""],
       "/build/": ["", "main", "hoshino", "faq", "slider", "then"],
     },
