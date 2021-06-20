@@ -23,7 +23,7 @@
 | jjc 日服 ABCDE | （数据来源 nomae）仅展示日服作业                                                  |
 | b 怎么拆 ABCDE | （数据来源 pcrdfans）仅展示国服作业                                               |
 | 台怎么拆 ABCDE | （数据来源 pcrdfans）仅展示台服作业                                               |
-| 日怎么拆 ABCDE | 数据来源 pcrdfans）仅展示日服作业                                                 |
+| 日怎么拆 ABCDE | （数据来源 pcrdfans）仅展示日服作业                                               |
 | 点赞 XX        | 接作业 id 评价作业                                                                |
 | 点踩 XX        | 接作业 id 评价作业                                                                |
 
